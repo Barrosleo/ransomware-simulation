@@ -26,7 +26,7 @@ Ransomware is a type of malware that encrypts files and demands a ransom for the
 ## Setup Instructions
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/ransomware-simulation.git
+    git clone https://github.com/Barrosleo/ransomware-simulation.git
     cd ransomware-simulation
     ```
 
